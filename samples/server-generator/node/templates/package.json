@@ -12,6 +12,6 @@
     },
     "dependencies": {
         "connect": ">= 1.8.x",
-        "express": "4.15.5"
+        "express": "4.17.3"
     }
 }
